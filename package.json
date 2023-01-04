@@ -1,0 +1,28 @@
+{
+  "name": "drive-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/DavidHakak/Web-application-for-saving-files-Node-JS-Mongo-DB-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidHakak/Web-application-for-saving-files-Node-JS-Mongo-DB-/issues"
+  },
+  "homepage": "https://github.com/DavidHakak/Web-application-for-saving-files-Node-JS-Mongo-DB-#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.1"
+  }
+}
